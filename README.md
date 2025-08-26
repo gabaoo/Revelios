@@ -1,5 +1,3 @@
-Claro, aqui está a tradução para o português:
-
 # HTML
 
 Um projeto HTML moderno que utiliza Tailwind CSS para construir aplicações web responsivas com configuração mínima.
@@ -43,6 +41,7 @@ html_app/
 │   ├── tailwind.css   # Arquivo de origem do Tailwind com utilitários personalizados
 │   └── main.css       # CSS compilado (gerado)
 ├── pages/             # Páginas HTML
+├── images/             # Imagens
 ├── index.html         # Ponto de entrada principal
 ├── package.json       # Dependências e scripts do projeto
 └── tailwind.config.js # Configuração do Tailwind CSS
@@ -75,10 +74,3 @@ A aplicação é construída com design responsivo usando os breakpoints (pontos
   - `lg`: 1024px e acima
   - `xl`: 1280px e acima
   - `2xl`: 1536px e acima
-
-## 🙏 Agradecimentos
-
-  - Construído com [Rocket.new](https://rocket.new)
-  - Desenvolvido com HTML e Tailwind CSS
-
-Construído com ❤️ no Rocket.new
